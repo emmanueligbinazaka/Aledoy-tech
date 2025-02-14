@@ -52,24 +52,22 @@
 
           <div style="gap: 30px; display: flex; flex-direction: column">
             <div class="button">
-              <a href="candidate_dashboard.php">
-                <button class="email-button">Login</button>
+              <a href="candidate_dashboard.php" class="email-button">
+                Login
               </a>
             </div>
 
             <div class="button1">
-              <a href="#">
-                <button type="submit" class="email-button1">
+              <a href="https://google.com" class="email-button1">
                   <img src="images/Google.png" />&nbsp;Google
-                </button>
               </a>
             </div>
 
             <p class="text-center">Have no account yet?</p>
 
             <div class="button1">
-              <a href="signup.php">
-                <button class="email-button1">Sign Up</button>
+              <a href="signup.php" class="email-button1">
+                Sign Up
               </a>
             </div>
           </div>

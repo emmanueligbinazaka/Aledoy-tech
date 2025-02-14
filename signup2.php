@@ -44,6 +44,6 @@ if (strlen($phone) != 11)
 mail($to,$sub,$content,$from);
 
 $msg = 'success';
-include('signup.php');
+include('login.php');
 
 ?>

@@ -61,10 +61,8 @@
             </div>
 
             <div class="button1">
-              <a href="https://Google.com">
-                <button type="submit" class="email-button1">
+              <a href="https://google.com" class="email-button1">
                   <img src="images/Google.png" />&nbsp;Google
-                </button>
               </a>
             </div>
           </div>

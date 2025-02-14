@@ -11,9 +11,9 @@
             <div class="col-md-2">
               <h1>LINKS</h1>
               <ul class="footer-links">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="for_talents.html">For Talents</a></li>
-                <li><a href="for _employeers.html">For Employer</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="for_talents.php">For Talents</a></li>
+                <li><a href="for _employeers.php">For Employer</a></li>
               </ul>
             </div>
             <div class="col-md-1"></div>

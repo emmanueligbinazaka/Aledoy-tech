@@ -12,7 +12,7 @@
   <body>
     <div class="container-fluid">
       <div class="sidebar">
-        <a class="navbar-brand logoo" href="index.html">
+        <a class="navbar-brand logoo" href="index.php">
           <img src="images/Aledoy-Talent Logo.png" class="" />
         </a>
 
@@ -22,7 +22,7 @@
 
         <div class="nav flex-column">
           <div>
-            <a class="nav-links" href="candidate_dashboard.html">
+            <a class="nav-links" href="candidate_dashboard.php">
               <span class="icon">
                 <img src="images/grid.png" />
               </span>
@@ -31,7 +31,7 @@
           </div>
 
           <div>
-            <a class="nav-links active" href="profile.html">
+            <a class="nav-links active" href="profile.php">
               <span class="icon">
                 <img src="images/frame1.png" />
               </span>
@@ -40,7 +40,7 @@
           </div>
 
           <div>
-            <a class="nav-links" href="change_password.html">
+            <a class="nav-links" href="change_password.php">
               <span class="icon">
                 <img src="images/setting-2.png" />
               </span>
