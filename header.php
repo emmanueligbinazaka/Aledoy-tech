@@ -24,7 +24,10 @@
             >
           </div>
           <div class="buttons">
-            <p class="mt-3">Contact us</p>
+          <a href="signup.php" style="text-decoration: none; ">
+              <p class="differnet" style="width: 100px;">Sign Up</p>
+            </a>
+            <!-- <p class="mt-3">Contact us</p> -->
             <a href="login.php" style="text-decoration: none">
               <p class="differnet">Login</p>
             </a>

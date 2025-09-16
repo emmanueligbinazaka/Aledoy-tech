@@ -1,3 +1,8 @@
+<?php
+session_start();
+require_once 'dashboard/includes/connect.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -17,7 +22,7 @@
 
     <div>
       <div class="right-section">
-        <form action="signup2.php" method="post" class="login-form">
+        <form action="proc-signup.php" method="post" class="login-form">
           <div class="mb-4">
             <h1>Welcome</h1>
             <p>
@@ -54,10 +59,8 @@
           </div>
 
           <div style="gap: 30px; display: flex; flex-direction: column">
-            <div class="button">
-              <a href="index.php">
-                <button type="submit" class="email-button">Sign Up</button>
-              </a>
+          <div class="button">
+              <button type="submit" name="register" class="email-button">Sign Up</button>
             </div>
 
             <div class="button1">
